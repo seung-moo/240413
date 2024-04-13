@@ -85,8 +85,3 @@ def regi():
     return r
 
 
-def main():
-    app.run(host='127.0.0.1', debug=False, port=80)
-
-if __name__ == '__main__':
-    main()
